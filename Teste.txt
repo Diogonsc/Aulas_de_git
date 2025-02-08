@@ -1,8 +1,9 @@
 COMANDOS GIT
 
-GIT INIT - Para criar um novo repo
+GIT INIT - Para criar um novo repositórioo
 
 GIT BRANCH -M <NAME> -  Para mudar o nome da branch
 
 GIT STATUS - Para ver o status dos arquivos
 
+git remote add origin - Para vincular seu repositório local com o remoto
